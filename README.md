@@ -16,7 +16,7 @@
 - [time.h](https://www.tutorialspoint.com/c_standard_library/time_h.htm).
 - [cstdlib](https://www.incredibuild.com/blog/cstdlib-in-c-explained#:~:text=The%20C%2B%2B%20Standard%20Library%20header,code%20across%20teams%20and%20platforms.).
 
-## Autor
+## Autores
 
 - [David Bermeo](https://github.com/DaKa22).
 - [Karol Martinez](https://github.com/KarolM22).
