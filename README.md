@@ -1,8 +1,9 @@
 # TrabajoFinalLenguajeC
 
 
-    El software realiza la utilidad de una Agenda donde se puede ingresar los datos basicos de una persona, Tabla de estudios y Historial laboral.
-    Cumpiendo las necesidades y validaciones solicitadas por el instructo, se anexa documento.
+    El software realiza la utilidad de una Agenda donde se puede ingresar los datos basicos de una persona,
+    Tabla de estudios y Historial laboral.Cumpiendo las necesidades y validaciones solicitadas 
+    por el instructo, se anexa documento.
    - [Documento](https://docs.google.com/document/d/1WLRC6eNUGNsq7CulmP1upg_bnNsgx9Xv/edit?usp=sharing&ouid=114018861612832553794&rtpof=true&sd=true).    
 
 ### LIBRERIA
